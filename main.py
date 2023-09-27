@@ -1,3 +1,8 @@
 x = 10
 y = 3
-print(x+y)
+
+a = x*y
+b = x-y
+
+print(a)
+print(b)
